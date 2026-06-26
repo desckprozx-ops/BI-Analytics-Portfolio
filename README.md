@@ -180,4 +180,4 @@ Dashboard interactivo que consolidaba KPIs financieros mensuales para dirección
 
 **¿Interesado en colaborar? Contáctame directamente.**
 
-*Último actualizado: Mayo 2026*
+*Último actualizado: Junio 2026*
