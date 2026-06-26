@@ -148,12 +148,15 @@ Dashboard interactivo que consolidaba KPIs financieros mensuales para dirección
 
 ## 🎓 Certificaciones
 
+- **Introducción a la Ciencia de Datos Aplicada** (Coursera & Universidad de los Andes, Junio 2026)
+- **Auditoría Interna de Calidad — NTC ISO 9001** (SENA Regional Santander, Junio 2026)
 - **Power BI + IA — Career Accelerator** (Daxus LATAM, 2026)
 - **Python — Week in Practice** (Daxus LATAM, 2026)
 - **IA Generativa y Fundamentos ChatGPT** (MIT Professional Education, 2025)
 - **Google Ads Measurement** (Google Skillshop, 2026)
 - **Inteligencia Artificial y Productividad** (Google & Santander, 2025)
 - **Meta Blueprint: Create for Mobile World** (Meta, 2025)
+-  **Meta Blueprint: Create for Mobile World** (Meta, 2025)
 
 ---
 
